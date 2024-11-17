@@ -1,0 +1,4 @@
+chmod +x *
+./attack
+pip install telebot flask aiogram python-telegram-bot pymongo aiohttp
+python3 proxy.py
